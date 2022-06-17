@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @BaseballE2K
-- 👀 I’m interested in making programs in many languages.
-- 🌱 I’m currently learning C and C#
+# 👋 I'm BaseballE2K!
+I am a game developer in Unreal Engine! I don't know what to put here!
